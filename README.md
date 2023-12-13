@@ -12,7 +12,7 @@ Utilizing the tools and resources on Microsoft Excel, multiple components were i
 ![](img/Product_Sales_Excel.jpg)
 
 ## Project 2: Regional Profitability (Tableau Data Visualization)
-With the integration of Tableau’s functionalities, a dashboard was customized with five visualizations to show the positive and negative trends of the sales data. The data included valuable information of the sales from a company throughout 2009 to 2012, and it specifically focused on the recorded sales throughout the different regions in Canada. Through the implementation of charts and graphs, it highlighted the key components of the dataset, such as the total number of sales for each product category or profits made throughout the years. The important pieces of the sales data were constructively put together in this Tableau dashboard.
+With the integration of Tableau’s functionalities, a dashboard was customized with five visualizations to show the positive and negative trends of the sales data. The data included valuable information of the sales from a company throughout 2009 to 2012, and it specifically focused on the recorded sales throughout the different regions in Canada. Through the implementation of charts and graphs, it highlighted the key components of the dataset, such as the total number of sales for each product category or profits made throughout the years. The important pieces of the sales data were constructively put together into the Tableau dashboard.
 
 ### Key Insights:
 - Among the regions in Canada, West recorded the highest number of orders and sales throughout the years (51,423 orders, ~$3.5 Million). 
